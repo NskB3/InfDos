@@ -1,4 +1,4 @@
-#By HiCo Adam
+#By NSK B3
 import socket
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.bind(("", 8080))
