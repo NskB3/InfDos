@@ -1,4 +1,4 @@
-#By HiCo Adam
+#By NSK B3
 import socket, sys
 help = """Usage: python buffer-overflow.py [HOST][PORT][DATA]
 
